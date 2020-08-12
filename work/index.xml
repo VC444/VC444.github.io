@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Works on codex</title>
+    <link>https://VC444.github.io/work/</link>
+    <description>Recent content in Works on codex</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>© {year}</copyright>
+    <lastBuildDate>Tue, 11 Aug 2020 20:14:26 -0500</lastBuildDate>
+    
+	<atom:link href="https://VC444.github.io/work/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>BlackBoxStocks, Inc</title>
+      <link>https://VC444.github.io/work/blackboxstocks/</link>
+      <pubDate>Tue, 11 Aug 2020 20:14:26 -0500</pubDate>
+      
+      <guid>https://VC444.github.io/work/blackboxstocks/</guid>
+      <description>My first professional internship was at BlackBoxStocks, a fintech startup that offers real-time stock and options tools for traders. I worked here for 11 months, and since I was a part of the company for such a long time (for an internship), I was given the opportunity to work on many different things within BlackBoxStocks. My most notable contribution was planning and building a microservice using AWS Lambda and Amazon API Gateway that supports querying information about thousands of options contracts in the MongoDB database.</description>
+    </item>
+    
+    <item>
+      <title>DeepMap, Inc</title>
+      <link>https://VC444.github.io/work/deepmap/</link>
+      <pubDate>Tue, 11 Aug 2020 20:14:26 -0500</pubDate>
+      
+      <guid>https://VC444.github.io/work/deepmap/</guid>
+      <description>During Summer 2020, I interned at a self-driving car company called DeepMap, which provides high definition mapping and localization solutions for autonomous vehicles. In layman&amp;rsquo;s terms, the company develops the software that helps autonomous vehicles know where exactly they are in the road, and what exists after they make a right turn.</description>
+    </item>
+    
+  </channel>
+</rss>

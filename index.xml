@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Hi, I&#39;m Vignesh on codex</title>
+    <title>Hi, I&#39;m Vignesh on Vignesh Chandrasekharan</title>
     <link>https://VC444.github.io/</link>
-    <description>Recent content in Hi, I&#39;m Vignesh on codex</description>
+    <description>Recent content in Hi, I&#39;m Vignesh on Vignesh Chandrasekharan</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>© {year}</copyright>
@@ -11,15 +11,6 @@
     
 	<atom:link href="https://VC444.github.io/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>Info</title>
-      <link>https://VC444.github.io/info/</link>
-      <pubDate>Tue, 11 Aug 2020 23:25:44 -0500</pubDate>
-      
-      <guid>https://VC444.github.io/info/</guid>
-      <description></description>
-    </item>
     
     <item>
       <title>DeepMap, Inc</title>
@@ -64,6 +55,15 @@
       
       <guid>https://VC444.github.io/projects/ronswansonquotes/</guid>
       <description>This is a fun side-project that I undertook back in 2017. That was when I started experimenting with new technologies outside of college courses. Coincidentally, Amazon released a competition that awarded Alexa skill submissions with a brand new Amazon Echo. I thought it was the perfect opportunity to work on a new technology and also earn something in return. I decided to build a program, also known as an Alexa Skill, that spits random quotes from Ron Swanson, a beloved character in the hit TV show Parks and Rec.</description>
+    </item>
+    
+    <item>
+      <title>About Me</title>
+      <link>https://VC444.github.io/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://VC444.github.io/about/</guid>
+      <description>Hey, I&amp;rsquo;m Vignesh, a student at The University of Texas at Dallas. I am currently pursuing a masters in Computer Science and plan to graduate in December 2020. On the side, I like to play soccer, experiment with new guitar chords, invest in the stock market, and build tech products that people may want to use. Some of the apps I work on are useful, while some are just for fun.</description>
     </item>
     
   </channel>

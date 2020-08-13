@@ -18,7 +18,7 @@
       <pubDate>Wed, 25 Mar 2020 20:14:26 -0500</pubDate>
       
       <guid>https://VC444.github.io/projects/hotel-resort/</guid>
-      <description>Storm&amp;rsquo;s Edge is a fully-functional web app that mimics an online resort-reservation website. I worked on designing and building the backend APIs as well as the frontend website. I imagined the resort to be located in a place that is prone to thunderstorms, hence the name Storm&amp;rsquo;s Edge. I also thought of beach&amp;rsquo;s edge, forest&amp;rsquo;s edge, and mountain&amp;rsquo;s edge, but none of them had the same zing to it as Storm&amp;rsquo;s Edge.</description>
+      <description>Storm&amp;rsquo;s Edge is a fully-functional web app that mimics an online resort-reservation website. I worked on designing and building the backend APIs as well as the frontend website. Planning the database schema and implementing the room booking logic was the most complicated part of the project, but it was successful in the end and I learned a lot from the process. I imagined the resort to be located in a place that is prone to thunderstorms, hence the name Storm&amp;rsquo;s Edge.</description>
     </item>
     
     <item>

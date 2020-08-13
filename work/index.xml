@@ -18,7 +18,8 @@
       <pubDate>Fri, 07 Aug 2020 20:14:26 -0500</pubDate>
       
       <guid>https://VC444.github.io/work/deepmap/</guid>
-      <description>During Summer 2020, I interned at a self-driving car company called DeepMap, which provides high definition mapping and localization solutions for autonomous vehicles. In layman&amp;rsquo;s terms, the company develops the software that helps autonomous vehicles know where exactly they are in the road, and what exists after they make a right turn.</description>
+      <description>During Summer 2020, I interned at a self-driving car company called DeepMap, which provides high definition mapping and localization solutions for autonomous vehicles. In layman&amp;rsquo;s terms, the company develops software that helps autonomous vehicles know where exactly they are in the road and what exists after that left turn. (There is a lot more under the hood, but that&amp;rsquo;s the basic idea).
+My project as a software engineer intern was to build a single page web app that helps DeepMap employees visualize different chunks of the road that the self-driving car&amp;rsquo;s sensors capture.</description>
     </item>
     
     <item>
